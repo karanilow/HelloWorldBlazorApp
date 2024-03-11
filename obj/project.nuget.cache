@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iG/t+Po3uFUWEJcnYoRlvTXLDABgK4yupzbbXqp6ID//gWekP0oeGPOmCoqyk6Sx3Ky1JiEiZkMOwLK+VGwhUQ==",
+  "dgSpecHash": "qsQLGUiNNNzSU9Y/1x5qyITvuHvMfAwv55VpjiEPXkk03T1rneIktnFAlU5i1KP0XXLjmyZXUR+c4XMha84uow==",
   "success": true,
-  "projectFilePath": "c:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\HelloWorldBlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\HelloWorldBlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

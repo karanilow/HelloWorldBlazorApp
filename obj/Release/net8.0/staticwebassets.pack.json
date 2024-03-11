@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css",
+      "Id": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\HelloWorldBlazorApp.bundle.scp.css"
     },
     {
@@ -21,19 +21,19 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelloWorldBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HelloWorldBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HelloWorldBlazorApp.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.HelloWorldBlazorApp.props",
       "PackagePath": "build\\HelloWorldBlazorApp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloWorldBlazorApp.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloWorldBlazorApp.props",
       "PackagePath": "buildMultiTargeting\\HelloWorldBlazorApp.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelloWorldBlazorApp.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.HelloWorldBlazorApp.props",
       "PackagePath": "buildTransitive\\HelloWorldBlazorApp.props"
     }
   ],

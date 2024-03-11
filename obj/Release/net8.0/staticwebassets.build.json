@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cefKGydqzIlUpI4r5p0kO+oVCbTuNxE9X1IQ9s2Id4I=",
+  "Hash": "rHNWZ6R8UgaC2qljlMjYtcKk0HvKZjsp/dr2Z5be/4o=",
   "Source": "HelloWorldBlazorApp",
   "BasePath": "_content/HelloWorldBlazorApp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazorApp.styles.css",
+      "Identity": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\bundle\\HelloWorldBlazorApp.styles.css",
       "SourceId": "HelloWorldBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HelloWorldBlazorApp",
       "RelativePath": "HelloWorldBlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\bundle\\HelloWorldBlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css",
+      "Identity": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css",
       "SourceId": "HelloWorldBlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HelloWorldBlazorApp",
       "RelativePath": "HelloWorldBlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazorApp.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\nilst\\Projects\\HelloWorld\\HelloWorldBlazorApp\\wwwroot\\app.css",
